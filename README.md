@@ -16,7 +16,7 @@ I am excited to learn more and begin my career as a SWE!
 </li></ul>
   <ul><li> <a href="https://www.slingshotmemphis.org/" target="_blank">https://www.slingshotmemphis.org/</a>
 </li></ul>
-  <ul><li> <a href="https://www.slingshotmemphis.org/" target="_blank">https://www.slingshotmemphis.org/</a>
+  <ul><li> <a href="https://kairos310.github.io/popularityprediction/" target="_blank">https://kairos310.github.io/popularityprediction/</a>
 </li></ul>
 </li> 
 <li>⚡ Fun fact: I love rock climbing 🧗🏼‍♀️ and I taught myself how to play the guitar 🎸 </li>
