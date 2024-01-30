@@ -1,7 +1,7 @@
 ### Hi there, I'm Hayley Herlich 👋
 <hr>
 
-I am a graduating senior at Rhodes College. I have experience as a Front-End Software Engineer and freelance web design.
+I am a graduating senior at Rhodes College. I have experience as a Front-End Software Engineer and freelance web designer.
 I am excited to learn more and begin my career as a SWE! 
 
 
